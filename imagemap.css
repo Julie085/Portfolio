@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+nav ul li{
+    display: outline;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(114, 50, 4);
+}
+header{
+    background-color: lavenderblush;
+    padding: 10px;
+}
+header h1{
+    color: brown;
+}
+#home img{
+    height: 29x;
+    width: 29px;
+    border-radius: 50%;
+}
+#Bio pre{
+    font-size: 20px;
+}
+Portfolio{
+    background-color: darkred;
+    padding: 60px;
+}
+header h2{
+    background-color: white;
+}
